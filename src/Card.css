@@ -1,0 +1,14 @@
+.card-background {
+	background-color: #8ffec5;
+	margin: 0.4em;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.grow {
+	transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+	transform: scale(1.02);
+}
