@@ -3,7 +3,7 @@ import './Card.css'
 
 const Card = (props) => {
 	
-	const { name, email, id} = props
+	const { name, email, id } = props
 
 	return (
 		<div className='card-background grow'>
